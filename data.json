@@ -1,0 +1,118 @@
+{
+  "data":[    
+    {   
+        "id":1,
+        "order":{
+            "customer": "lyly",
+            "id": 2,
+            "order-date":"17/03/2020",
+            "address":"phnom penh, cambodia",
+            "products":[
+                {
+                    "code":1 ,
+                    "description":"apple",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                },
+                {
+                    "code":2 ,
+                    "description":"banana",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                },
+                {
+                    "code":3 ,
+                    "description":"orange",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                }
+            ]
+        }
+    },
+    {
+        "id":2,
+        "order":{
+            "customer": "jonh",
+            "id": 2,
+            "order-date":"17/03/2020",
+            "address":"phnom penh, cambodia",
+            "products":[
+                {
+                    "code":1 ,
+                    "description":"orange",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                },
+                {
+                    "code":2 ,
+                    "description":"banana",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                },
+                {
+                    "code":3 ,
+                    "description":"apple",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                }
+            ]
+        }
+    },
+    {
+        "id":3,
+        "order":{
+            "customer": "lina",
+            "id": 2,
+            "order-date":"17/03/2020",
+            "address":"phnom penh, cambodia",
+            "products":[
+                {
+                    "code":1 ,
+                    "description":"watermelon",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                },
+                {
+                    "code":2 ,
+                    "description":"grape",
+                    "qty": 2,
+                    "rate": "4.50",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                },
+                {
+                    "code":3 ,
+                    "description":"orange",
+                    "qty": 3,
+                    "rate": "3.00",
+                    "discount":"0.00",
+                    "tax": "",
+                    "amount":"9.00"
+                }
+            ]
+        }
+    }     
+  ]
+}
